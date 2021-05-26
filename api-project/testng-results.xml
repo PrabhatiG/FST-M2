@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8928" started-at="2021-05-26T16:03:45 IST" finished-at="2021-05-26T16:03:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8928" started-at="2021-05-26T16:03:45 IST" finished-at="2021-05-26T16:03:54 IST">
+      <class name="Activities_REST.RestAPIProject">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Activities_REST.RestAPIProject@30a3107a]" name="setUp" is-config="true" duration-ms="1221" started-at="2021-05-26T16:03:45 IST" finished-at="2021-05-26T16:03:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addKeys()[pri:1, instance:Activities_REST.RestAPIProject@30a3107a]" name="addKeys" duration-ms="5855" started-at="2021-05-26T16:03:47 IST" finished-at="2021-05-26T16:03:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addKeys -->
+        <test-method status="PASS" signature="getKeys()[pri:2, instance:Activities_REST.RestAPIProject@30a3107a]" name="getKeys" duration-ms="959" started-at="2021-05-26T16:03:52 IST" finished-at="2021-05-26T16:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getKeys -->
+        <test-method status="PASS" signature="deleteKeys()[pri:3, instance:Activities_REST.RestAPIProject@30a3107a]" name="deleteKeys" duration-ms="794" started-at="2021-05-26T16:03:53 IST" finished-at="2021-05-26T16:03:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteKeys -->
+      </class> <!-- Activities_REST.RestAPIProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
